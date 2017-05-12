@@ -3,14 +3,13 @@
 > FreeCodeCamp广州社区不定期举办线下交流活动，本仓库记录和收集每一次线下分享的资料与心得。<br>
 > 具体的活动回顾请关注公众号或者骚扰相关人等(✪ω✪)
 
-线下活动分享:
+### 线下活动分享:
 
-
-#### FCC广州cofee & code#1   _16/12/17  6C咖啡厅_
+#### #1 FCC广州cofee & code   _16/12/17  6C咖啡厅_
 - 函数式编程   —— By [Tycho](https://github.com/tycho01)
 - [TodoList App](https://github.com/FreeCodeCamp-Guangzhou/Project-Together)  —— By [CaiYiLiang](https://github.com/CaiYiLiang) ,[domsgit](https://github.com/domsgit), [taikyo](https://github.com/taikyo), [Tycho](https://github.com/tycho01), [Jimmy-Gan](https://github.com/Jimmy-Gan)
 
-#### FCC广州cofee & code#2  _17/02/25 6C咖啡厅_
+#### #2 FCC广州cofee & code  _17/02/25 6C咖啡厅_
 - [2016：从自学到成为前端开发者](http://www.jianshu.com/p/fc2a0590bd13) —— By [Hanx](https://github.com/Samhanx)
 - Flex布局 —— By [taikyo](https://github.com/taikyo)
 
@@ -20,7 +19,7 @@
  4. [阮一峰 Flex布局语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
  5. [阮一峰 Flex布局实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
-#### 中国首届开发者关系大会广州分会场 | freeCodeCmap广州线下活动#03  _17/05/06 一起开工社区_ 
+#### #3 中国首届开发者关系大会广州分会场 | freeCodeCmap广州线下活动  _17/05/06 一起开工社区_ 
 - FCC 运营团队猿生态承办推进的中国首届开发者关系大会（DevRel2017）直播环节 **因网络直播环境影响，不太顺利，如果有录播会更新地址**
 - 事件委托/事件传播机制 —— By [Victor-chan](https://github.com/Victor-ChanX/)
 
