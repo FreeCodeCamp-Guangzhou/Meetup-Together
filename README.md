@@ -20,7 +20,7 @@
  5. [阮一峰 Flex布局实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 
 #### #3 中国首届开发者关系大会广州分会场 | freeCodeCmap广州线下活动  _17/05/06 一起开工社区_ 
-- FCC 运营团队猿生态承办推进的中国首届开发者关系大会（DevRel2017）直播环节 **因网络直播环境影响，不太顺利，如果有录播会更新地址**
+- FCC 运营团队猿生态承办推进的中国首届开发者关系大会（DevRel2017）直播环节 **[录播戳这里]( http://www.itdks.com/dakashuo/play/1220)**
 - 事件委托/事件传播机制 —— By [Victor-chan](https://github.com/Victor-ChanX/)
 
   >心得 —— By [CaiYiLiang](https://github.com/CaiYiLiang) <br> DOM流的存在三个阶段：事件捕获阶段、处于目标阶段、事件冒泡阶段。<br>
